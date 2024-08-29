@@ -69,7 +69,7 @@ class _MyAppState extends  ConsumerState<MyApp> {
           initTheme:widget.theme,
           builder: (p0, theme) => 
          MaterialApp(
-            title: 'Flutter Demo',
+            title: 'Cloud Gallery',
             theme: theme,
             // isThemeMode ? ThemeData.dark() : ThemeData.light(),
             debugShowCheckedModeBanner: false,
